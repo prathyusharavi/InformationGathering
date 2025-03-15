@@ -1,4 +1,4 @@
-# InformationGathering
+![sudo udp](https://github.com/user-attachments/assets/e6b1d6d4-a126-42ae-8b2b-b7fb6cd3a950)# InformationGathering
 Information Gathering Techiques
 
 # To perform information gathering techniques
@@ -34,17 +34,24 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ![Screenshot 2025-03-15 011020](https://github.com/user-attachments/assets/4f3302ff-8fbe-4b39-a6a7-8beedb415b03)
 
 ## Netcat:
-![image](https://github.com/user-attachments/assets/e6e315ae-19ad-4669-b23f-c821aedc5f10)
+![nc command](https://github.com/user-attachments/assets/c89e02b1-b310-4f26-8b64-a05b1ef8d7f3)
+
 ## Nmap:
-![image](https://github.com/user-attachments/assets/383d8f54-c74b-4c52-b5ab-fb853e1ae90d)
+![nmap](https://github.com/user-attachments/assets/0295b223-39cd-4098-a3ae-ad38ec194dd3)
+
 ## Whatweb:
-![image](https://github.com/user-attachments/assets/56b0c619-8b2d-4fe8-bb0a-3fc1aabc0c95)
-![image](https://github.com/user-attachments/assets/032c9522-c529-43bc-a386-a99d65b960c4)
+![whatweb](https://github.com/user-attachments/assets/ca3b97b7-56ed-4279-8eae-4c0896bf494e)
+![whatweb report](https://github.com/user-attachments/assets/62d96481-8962-4edb-81ea-fbfee4036a21)
+
 ## Traceroute:
-![image](https://github.com/user-attachments/assets/b91ff897-30db-46fe-8b08-dce553e03bc6)
+
+![traceroute](https://github.com/user-attachments/assets/9742a593-ff18-47db-a07a-3c21be0f3370)
+
+
 ## UDP and TCP Traceroute:
-![image](https://github.com/user-attachments/assets/f3738298-3b09-4545-9c3b-cf8c9bd1efb1)
-![image](https://github.com/user-attachments/assets/ef2dd4fe-7846-4783-bd97-56bee2bb15a7)
+
+![sudo udp](https://github.com/user-attachments/assets/94049ddc-5551-4308-b317-a2f8cd2c072e)
+**
 ## httprint:
 ![image](https://github.com/user-attachments/assets/a30f2c6a-2db8-4dd2-ad3d-ea0f01745236)
 
