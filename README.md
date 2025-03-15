@@ -46,7 +46,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ![image](https://github.com/user-attachments/assets/f3738298-3b09-4545-9c3b-cf8c9bd1efb1)
 ![image](https://github.com/user-attachments/assets/ef2dd4fe-7846-4783-bd97-56bee2bb15a7)
 ## httprint:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/a30f2c6a-2db8-4dd2-ad3d-ea0f01745236)
+
 
 
 ## RESULT:
