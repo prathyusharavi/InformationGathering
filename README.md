@@ -1,5 +1,5 @@
-![sudo udp](https://github.com/user-attachments/assets/e6b1d6d4-a126-42ae-8b2b-b7fb6cd3a950)# InformationGathering
-Information Gathering Techiques
+### InformationGathering
+
 
 # To perform information gathering techniques
 
